@@ -56,10 +56,13 @@ button{
     background-color: gray;
 }
 
+.sectionContainerReverse{
+    flex-direction: row-reverse;
+}
+
 .larger,
 .smaller{
     background-color: lightskyblue;
-    
 }
 
 .larger{
