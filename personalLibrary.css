@@ -23,3 +23,11 @@
 .justifyAround{
     justify-content: space-around;
 }
+
+.flexRow{
+    flex-direction: row;
+}
+
+.flexColumn{
+    flex-direction: column;
+}

@@ -48,6 +48,11 @@ button{
     margin-bottom: 5%;
 }
 
+section{
+    padding-top: 8%;
+    padding-bottom: 8%;
+}
+
 .sectionWhite{
     background-color: white;
 }
@@ -73,4 +78,15 @@ button{
     flex-basis: 40%;
 }
 
+/* se sostituisco section title con un H non serve il margin bottom */
 
+.sectionTitle,
+.imgHorizontal,
+.sectionParagraph{
+    margin-bottom: 5%;
+    text-align: center;
+}
+
+.imgHorizontal{
+    background-color: beige;
+}
