@@ -52,6 +52,10 @@ button{
     background-color: white;
 }
 
+.sectionGray{
+    background-color: gray;
+}
+
 .larger,
 .smaller{
     background-color: lightskyblue;
