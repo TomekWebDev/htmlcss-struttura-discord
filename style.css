@@ -1,35 +1,9 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-.flexContainer{
-    display: flex;
-}
-
-.justifyBetween{
-    justify-content: space-between;
-}
-
-.alignCenter{
-    align-items: center;
-}
-
-.justifyCenter{
-    justify-content: center;
-}
-
-.justifyAround{
-    justify-content: space-around;
-}
-
 header{
     height: 50vh;
     background-color: lightgrey;
 }
 
-.div80{
+.topBarContainer{
     width: 80%;
     margin: auto;
 }
