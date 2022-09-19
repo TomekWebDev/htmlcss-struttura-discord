@@ -7,3 +7,52 @@
 .flexContainer{
     display: flex;
 }
+
+.justifyBetween{
+    justify-content: space-between;
+}
+
+.alignCenter{
+    align-items: center;
+}
+
+.justifyCenter{
+    justify-content: center;
+}
+
+.justifyAround{
+    justify-content: space-around;
+}
+
+header{
+    height: 50vh;
+    background-color: lightgrey;
+}
+
+.div80{
+    width: 80%;
+    margin: auto;
+}
+
+.headerPart{
+    height: 60px;
+    background-color:coral;
+    padding: 5px;
+}
+
+.menu{
+    flex-basis: 80%;
+    background-color: bisque;
+}
+
+.logo,
+.login{
+    flex-basis: 10%;
+}
+
+.menuList{
+    flex-basis: 60%;
+    list-style: none;
+}
+
+
